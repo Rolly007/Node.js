@@ -1,0 +1,17 @@
+{
+  "name": "search",
+  "version": "1.0.0",
+  "description": "\"Eval. final de Backend de NextU\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Americo",
+  "license": "ISC",
+  "dependencies": {
+    "es6-promise": "^4.2.5",
+    "express": "^4.16.4",
+    "morgan": "^1.9.1",
+    "path": "^0.12.7"
+  }
+}
